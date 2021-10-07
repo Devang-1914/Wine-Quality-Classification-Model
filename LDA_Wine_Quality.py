@@ -6,7 +6,7 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from matplotlib import pyplot as plt
 from PIL import Image
 from sklearn.metrics import accuracy_score
-import plotly.express as px
+
 # -------------------------------- IMAGE --------------------------#
 
 img = Image.open('red_wine.jpg')
